@@ -10,7 +10,6 @@ function load()
     local lang = ".lua"
     local filenames = {
         "mainscript"..lang,
-        "functions"..lang,
         "gui"..lang,
     }
     local dothingname = "mainscript"..lang
